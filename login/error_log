@@ -1,0 +1,4 @@
+[24-Dec-2015 17:20:57 Europe/London] PHP Fatal error:  Class 'PDO' not found in /home/yinpengc/public_html/bjgzuweb/login/includes/config.php on line 21
+[24-Dec-2015 17:26:10 Europe/London] PHP Fatal error:  Class 'PDO' not found in /home/yinpengc/public_html/bjgzuweb/login/includes/config.php on line 21
+[24-Dec-2015 21:36:50 Europe/London] PHP Fatal error:  Class 'PDO' not found in /home/yinpengc/public_html/bjgzuweb/login/includes/config.php on line 21
+[24-Dec-2015 22:41:39 Europe/London] PHP Fatal error:  Class 'PDO' not found in /home/yinpengc/public_html/bjgzuweb/login/includes/config.php on line 21
